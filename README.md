@@ -4,3 +4,4 @@
 | Subdomain | Challenge | Solution |
 | --- | --- | --- |
 | Miscellaneous |[Palindrome String](http://www.programmr.com/challenges/palindrom-string-2) | [PalindromeString.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/PalindromeString.java) |
+| Miscellaneous |[Is Binary or not](http://www.programmr.com/challenges/binary-or-not-1) | [IsBinaryOrNot.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/IsBinaryOrNot.java) |

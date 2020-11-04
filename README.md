@@ -3,4 +3,4 @@
 # JAVA
 | Subdomain | Challenge | Solution |
 | --- | --- | --- |
-| Miscellaneous |[Palindrome String](http://www.programmr.com/challenges/palindrom-string-2) | [PalindromeString.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/PalindromeString.java) |
+| Miscellaneous |[Palindrome String](http://www.programmr.com/challenges/palindrom-string-2) | [PalindromeString.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/PalindromeString.java) |

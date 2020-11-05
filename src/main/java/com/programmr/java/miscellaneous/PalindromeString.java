@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
  * @author Nika Zurbaevi
  */
 public class PalindromeString {
-    public static void main(String args[]) throws Exception {
+    public static void main(String[] args) throws Exception {
         int flag = 0;
         System.out.println("Enter the string:");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -12,3 +12,4 @@
 | Miscellaneous |[Print Rectangle](http://www.programmr.com/challenges/print-rectangle-1) | [PrintRectangle.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/PrintRectangle.java) |
 | Miscellaneous |[Name Search](http://www.programmr.com/challenges/name-search-0) | [NameSearch.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/NameSearch.java) |
 | Miscellaneous |[Sum of the digits](http://www.programmr.com/challenges/sum-digits-0) | [SumOfTheDigits.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/SumOfTheDigits.java) |
+| Miscellaneous |[Statement reverse](http://www.programmr.com/challenges/statement-reverse-1) | [StatementReverse.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/miscellaneous/StatementReverse.java) |

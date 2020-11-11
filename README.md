@@ -25,3 +25,4 @@
 | Strings |[Longest Word](http://www.programmr.com/longest-word) | [LongestWord.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/LongestWord.java) |
 | Strings |[Palindrome check](http://www.programmr.com/palindrome-check-0) | [PalindromeCheck.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/PalindromeCheck.java) |
 | Strings |[Username](http://www.programmr.com/username-1) | [Username.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/Username.java) |
+| Strings |[Bob There?](http://www.programmr.com/bob-there) | [BobThere.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/BobThere.java) |

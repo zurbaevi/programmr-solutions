@@ -1,5 +1,7 @@
-<p align="center"><a href="http://www.programmr.com/users/zurbaevi"><img src="https://csharp-station.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-21-at-4.48.05-PM.png" ></a></p>
+# Практикум на programmr
+Programmr управляет интерактивной онлайн-лабораторией, где студенты могут изучать и практиковать программирование и кодирование. Он позволяет пользователям кодировать, компилировать и запускать веб-приложения, мобильные приложения, приложения баз данных и мультимедиа, а также программы командной строки в браузере.
 
+___
 # JAVA
 | Subdomain | Challenge | Solution |
 | --- | --- | --- |
@@ -26,3 +28,4 @@
 | Strings |[Palindrome check](http://www.programmr.com/palindrome-check-0) | [PalindromeCheck.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/PalindromeCheck.java) |
 | Strings |[Username](http://www.programmr.com/username-1) | [Username.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/Username.java) |
 | Strings |[Bob There?](http://www.programmr.com/bob-there) | [BobThere.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/BobThere.java) |
+____

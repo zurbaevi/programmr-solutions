@@ -28,4 +28,9 @@ ___
 | Strings |[Palindrome check](http://www.programmr.com/palindrome-check-0) | [PalindromeCheck.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/PalindromeCheck.java) |
 | Strings |[Username](http://www.programmr.com/username-1) | [Username.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/Username.java) |
 | Strings |[Bob There?](http://www.programmr.com/bob-there) | [BobThere.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/BobThere.java) |
+| Exception Handling |[Ask for certain number](http://www.programmr.com/ask-certain-number) | [AskForCertainNumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/AskForCertainNumber.java) |
+| Exception Handling |[Catch the fish again](http://www.programmr.com/catch-fish-again-0) | [CatchTheFishAgain.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/CatchTheFishAgain.java) |
+| Exception Handling |[Convert to Centimeters](http://www.programmr.com/length) | [ConvertToCentimeters.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/ConvertToCentimeters.java) |
+| Exception Handling |[ID Number Machine](http://www.programmr.com/id-number-machine) | [IDNumberMachine.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/IDNumberMachine.java) |
+| Exception Handling |[Slope Point](http://www.programmr.com/slopepoint) | [SlopePoint.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/SlopePoint.java) |
 ____

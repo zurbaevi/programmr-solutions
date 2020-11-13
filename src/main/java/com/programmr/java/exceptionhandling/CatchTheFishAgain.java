@@ -15,7 +15,7 @@ public class CatchTheFishAgain {
 
     static class Challenge {
 
-        public static void main(String args[]) {
+        public static void main(String[] args) {
             try {
                 throw new ExceptionC();
             } catch (ExceptionA a) {

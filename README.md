@@ -33,4 +33,9 @@ ___
 | Exception Handling |[Convert to Centimeters](http://www.programmr.com/length) | [ConvertToCentimeters.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/ConvertToCentimeters.java) |
 | Exception Handling |[ID Number Machine](http://www.programmr.com/id-number-machine) | [IDNumberMachine.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/IDNumberMachine.java) |
 | Exception Handling |[Slope Point](http://www.programmr.com/slopepoint) | [SlopePoint.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/SlopePoint.java) |
+| Inheritance |[Area of a circle using Inheritance](http://www.programmr.com/area-circle-using-inheritance-0) | [AreaOfACircleUsingInheritance.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/AreaOfACircleUsingInheritance.java) |
+| Inheritance |[Counter Inheritance](http://www.programmr.com/counter-inheritance) | [CounterInheritance.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/CounterInheritance.java) |
+| Inheritance |[Method Overriding](http://www.programmr.com/method-overriding-4) | [MethodOverriding.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/MethodOverriding.java) |
+| Inheritance |[Purchased Item](http://www.programmr.com/purchaseditem) | [PurchasedItem.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/PurchasedItem.java) |
+| Inheritance |[Use super](http://www.programmr.com/use-super-1) | [UseSuper.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/UseSuper.java) |
 ____

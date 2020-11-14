@@ -38,4 +38,11 @@ ___
 | Inheritance |[Method Overriding](http://www.programmr.com/method-overriding-4) | [MethodOverriding.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/MethodOverriding.java) |
 | Inheritance |[Purchased Item](http://www.programmr.com/purchaseditem) | [PurchasedItem.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/PurchasedItem.java) |
 | Inheritance |[Use super](http://www.programmr.com/use-super-1) | [UseSuper.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/inheritance/UseSuper.java) |
+| Classes |[Author Class](http://www.programmr.com/author-class) | [AuthorClass.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/AuthorClass.java) |
+| Classes |[Circle Class](http://www.programmr.com/circle-class) | [CircleClass.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/CircleClass.java) |
+| Classes |[Date Class](http://www.programmr.com/date-class) | [DateClass.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/DateClass.java) |
+| Classes |[Employee CLass](http://www.programmr.com/employee-class) | [EmployeeClass.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/EmployeeClass.java) |
+| Classes |[Flip Point](http://www.programmr.com/flip-point) | [FlipPoint.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/FlipPoint.java) |
+| Classes |[Print using to String](http://www.programmr.com/print-using-tostring-0) | [PrintUsingToString.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/PrintUsingToString.java) |
+| Classes |[Quadrant Point](http://www.programmr.com/quadrant-point) | [QuadrantPoint.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/QuadrantPoint.java) |
 ____

@@ -45,4 +45,7 @@ ___
 | Classes |[Flip Point](http://www.programmr.com/flip-point) | [FlipPoint.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/FlipPoint.java) |
 | Classes |[Print using to String](http://www.programmr.com/print-using-tostring-0) | [PrintUsingToString.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/PrintUsingToString.java) |
 | Classes |[Quadrant Point](http://www.programmr.com/quadrant-point) | [QuadrantPoint.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/classes/QuadrantPoint.java) |
+| Arrays |[Add elements of an Array](http://www.programmr.com/add-elements-array) | [AddElementsOfAnArray.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/AddElementsOfAnArray.java) |
+| Arrays |[Reverse a String using Array](http://www.programmr.com/reverse-string-using-array) | [ReverseAStringUsingArray.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/ReverseAStringUsingArray.java) |
+| Loops |[Reverse a Number](http://www.programmr.com/reverse-number-2) | [ReverseANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/ReverseANumber.java) |
 ____

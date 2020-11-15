@@ -48,4 +48,8 @@ ___
 | Arrays |[Add elements of an Array](http://www.programmr.com/add-elements-array) | [AddElementsOfAnArray.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/AddElementsOfAnArray.java) |
 | Arrays |[Reverse a String using Array](http://www.programmr.com/reverse-string-using-array) | [ReverseAStringUsingArray.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/ReverseAStringUsingArray.java) |
 | Loops |[Reverse a Number](http://www.programmr.com/reverse-number-2) | [ReverseANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/ReverseANumber.java) |
+| Variable |[Even or Odd](http://www.programmr.com/even-or-odd) | [EvenOrOdd.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/EvenOrOdd.java) |
+| Variable |[More user input of Data](http://www.programmr.com/more-user-input-data-0) | [MoreUserInputOfData.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MoreUserInputOfData.java) |
+| Variable |[Multiply any two Numbers](http://www.programmr.com/multiply-two-numbers-00) | [MultiplyAnyTwoNumbers.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MultiplyAnyTwoNumbers.java) |
+| Variable |[Variable max Values](http://www.programmr.com/variable-max-values) | [VariableMaxValues.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/VariableMaxValues.java) |
 ____

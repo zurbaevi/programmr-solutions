@@ -57,4 +57,9 @@ ___
 | Variable |[Variable max Values](http://www.programmr.com/variable-max-values) | [VariableMaxValues.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/VariableMaxValues.java) |
 | Variable |[Declaring Variables](http://www.programmr.com/declaring-variables) | [DeclaringVariables.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/DeclaringVariables.java) |
 | Variable |[Prime Number Checker](http://www.programmr.com/variable-arithmetic-operations) | [PrimeNumberChecker.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/PrimeNumberChecker.java) |
+| Polymorphism |[Area of Shapes](http://www.programmr.com/area-shapes) | [AreaOfShapes.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/AreaOfShapes.java) |
+| Polymorphism |[Books](http://www.programmr.com/books) | [Books.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/Books.java) |
+| Polymorphism |[Constructor Overloading](http://www.programmr.com/constructor-overloading) | [ConstructorOverloading.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/ConstructorOverloading.java) |
+| Polymorphism |[Overloading Example](http://www.programmr.com/over-loading-example) | [OverloadingExample.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/OverloadingExample.java) |
+| Polymorphism |[Overriding Example](http://www.programmr.com/overriding-example) | [OverridingExample.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/OverridingExample.java) |
 ____

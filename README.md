@@ -55,4 +55,6 @@ ___
 | Variable |[More user input of Data](http://www.programmr.com/more-user-input-data-0) | [MoreUserInputOfData.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MoreUserInputOfData.java) |
 | Variable |[Multiply any two Numbers](http://www.programmr.com/multiply-two-numbers-00) | [MultiplyAnyTwoNumbers.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MultiplyAnyTwoNumbers.java) |
 | Variable |[Variable max Values](http://www.programmr.com/variable-max-values) | [VariableMaxValues.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/VariableMaxValues.java) |
+| Variable |[Declaring Variables](http://www.programmr.com/declaring-variables) | [DeclaringVariables.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/DeclaringVariables.java) |
+| Variable |[Prime Number Checker](http://www.programmr.com/variable-arithmetic-operations) | [PrimeNumberChecker.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/PrimeNumberChecker.java) |
 ____

@@ -52,7 +52,8 @@ ___
 | Arrays |[Reverse a String using Array](http://www.programmr.com/reverse-string-using-array) | [ReverseAStringUsingArray.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/ReverseAStringUsingArray.java) |
 | Arrays |[Swapping elements](http://www.programmr.com/swapping-elements) | [SwappingElements.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/SwappingElements.java) |
 | Arrays |[Even numbers only](http://www.programmr.com/even-numbers-only-0) | [EvenNumbersOnly.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/EvenNumbersOnly.java) |
-| Operators |[Arithmetic operators](http://www.programmr.com/arithmetic-operator) | [ArithmeticOperators.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arrays/ArithmeticOperators.java) |
+| Operators |[Arithmetic operators](http://www.programmr.com/arithmetic-operator) | [ArithmeticOperators.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/operators/ArithmeticOperators.java) |
+| Operators |[Leap Year](http://www.programmr.com/leap-year-3) | [LeapYear.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/operators/LeapYear.java) |
 | Loops |[Reverse a Number](http://www.programmr.com/reverse-number-2) | [ReverseANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/ReverseANumber.java) |
 | Variable |[Even or Odd](http://www.programmr.com/even-or-odd) | [EvenOrOdd.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/EvenOrOdd.java) |
 | Variable |[More user input of Data](http://www.programmr.com/more-user-input-data-0) | [MoreUserInputOfData.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MoreUserInputOfData.java) |
@@ -65,4 +66,5 @@ ___
 | Polymorphism |[Constructor Overloading](http://www.programmr.com/constructor-overloading) | [ConstructorOverloading.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/ConstructorOverloading.java) |
 | Polymorphism |[Overloading Example](http://www.programmr.com/over-loading-example) | [OverloadingExample.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/OverloadingExample.java) |
 | Polymorphism |[Overriding Example](http://www.programmr.com/overriding-example) | [OverridingExample.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/OverridingExample.java) |
+| Arithmetic |[Absolute Equals](http://www.programmr.com/absolute-equals-0) | [AbsoluteEquals.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arithmetic/AbsoluteEquals.java) |
 ____

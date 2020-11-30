@@ -69,4 +69,5 @@ ___
 | Polymorphism |[Overloading Example](http://www.programmr.com/over-loading-example) | [OverloadingExample.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/OverloadingExample.java) |
 | Polymorphism |[Overriding Example](http://www.programmr.com/overriding-example) | [OverridingExample.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/polymorphism/OverridingExample.java) |
 | Arithmetic |[Absolute Equals](http://www.programmr.com/absolute-equals-0) | [AbsoluteEquals.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/arithmetic/AbsoluteEquals.java) |
+| Collections |[Find length of the longest String in ArrayList](http://www.programmr.com/find-length-longest-string-arraylist) | [FindLengthOfTheLongestStringInArrayList.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/collections/FindLengthOfTheLongestStringInArrayList.java) |
 ____

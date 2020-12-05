@@ -59,6 +59,7 @@ ___
 | Operators |[Leap Year](http://www.programmr.com/leap-year-3) | [LeapYear.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/operators/LeapYear.java) |
 | Loops |[Reverse a Number](http://www.programmr.com/reverse-number-2) | [ReverseANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/ReverseANumber.java) |
 | Loops |[Sum of 5 Integers](http://www.programmr.com/sum-5-integers) | [SumOf5Integers.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/SumOf5Integers.java) |
+| Methods |[Square root of a Number](http://www.programmr.com/square-root-number) | [SquareRootOfANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/methods/SquareRootOfANumber.java) |
 | Variable |[Even or Odd](http://www.programmr.com/even-or-odd) | [EvenOrOdd.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/EvenOrOdd.java) |
 | Variable |[More user input of Data](http://www.programmr.com/more-user-input-data-0) | [MoreUserInputOfData.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MoreUserInputOfData.java) |
 | Variable |[Multiply any two Numbers](http://www.programmr.com/multiply-two-numbers-00) | [MultiplyAnyTwoNumbers.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/variables/MultiplyAnyTwoNumbers.java) |

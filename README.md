@@ -59,6 +59,7 @@ ___
 | Operators |[Leap Year](http://www.programmr.com/leap-year-3) | [LeapYear.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/operators/LeapYear.java) |
 | Loops |[Reverse a Number](http://www.programmr.com/reverse-number-2) | [ReverseANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/ReverseANumber.java) |
 | Loops |[Sum of 5 Integers](http://www.programmr.com/sum-5-integers) | [SumOf5Integers.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/SumOf5Integers.java) |
+| Loops |[Palindromic word](http://www.programmr.com/test-palindromic-word) | [PalindromicWord.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/loops/PalindromicWord.java) |
 | Methods |[Square root of a Number](http://www.programmr.com/square-root-number) | [SquareRootOfANumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/methods/SquareRootOfANumber.java) |
 | Methods |[Convert Upper to Lower Case](http://www.programmr.com/convert-lower-upper-case) | [ConvertUpperToLowerCase.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/methods/ConvertUpperToLowerCase.java) |
 | Methods |[Area of a Circle](http://www.programmr.com/area-circle-0r) | [AreaOfACircle.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/methods/AreaOfACircle.java) |

@@ -17,6 +17,7 @@ public class LeapYearCheck {
             System.out.println("Not leap");
     }
 
+
     private static boolean checkLeapYear(int year) {
         if (year % 400 == 0) {
             return true;

@@ -47,6 +47,7 @@ ___
 | Strings |[End Up](http://www.programmr.com/end) | [EndUp.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/EndUp.java) |
 | Strings |[Replacer](http://www.programmr.com/replacer) | [Replacer.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/Replacer.java) |
 | Strings |[Decode URL!](http://www.programmr.com/decode-url) | [DecodeURL.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/DecodeURL.java) |
+| Strings |[String Times](http://www.programmr.com/stringtimes) | [StringTimes.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/strings/StringTimes.java) |
 | Exception Handling |[Ask for certain number](http://www.programmr.com/ask-certain-number) | [AskForCertainNumber.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/AskForCertainNumber.java) |
 | Exception Handling |[Catch the fish again](http://www.programmr.com/catch-fish-again-0) | [CatchTheFishAgain.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/CatchTheFishAgain.java) |
 | Exception Handling |[Convert to Centimeters](http://www.programmr.com/length) | [ConvertToCentimeters.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/exceptionhandling/ConvertToCentimeters.java) |

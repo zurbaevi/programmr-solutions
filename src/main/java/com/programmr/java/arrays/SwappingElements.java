@@ -1,6 +1,5 @@
 package com.programmr.java.arrays;
 
-import java.util.Collections;
 import java.util.Scanner;
 
 /**
@@ -18,8 +17,8 @@ public class SwappingElements {
             input[i] = input[i + 1];
             input[i + 1] = temp;
         }
-        for (int i = 0; i < input.length; i++) {
-            System.out.println(input[i]);
+        for (int j : input) {
+            System.out.println(j);
         }
     }
 }

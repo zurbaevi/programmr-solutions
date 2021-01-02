@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class LocatingTheLargestValueInAnArrayList {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        ArrayList<Integer> al = new ArrayList<Integer>();
+        ArrayList<Integer> al = new ArrayList<>();
         System.out.println("Enter the number of integers that will be inserted: ");
         int size = scanner.nextInt();
         System.out.println("Enter some integers to insert to the ArrayList: ");

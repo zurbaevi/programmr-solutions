@@ -8,14 +8,12 @@ import java.util.Scanner;
 public class AreaOfACircleUsingInheritance {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Enter the radius:");
         double radius = scanner.nextDouble();
         new AreaOfACircleUsingInheritance().method(radius);
     }
 
     public void method(double radius) {
-
         Circle myCircle = new Circle();
         myCircle.setRadius(radius);
         System.out.print(myCircle.getDisplayText());

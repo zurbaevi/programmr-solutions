@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class MethodOverriding {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int sum = 0;
         System.out.println("Enter the 1st number:");
         int num1 = scanner.nextInt();
         System.out.println("Enter the 2nd number:");

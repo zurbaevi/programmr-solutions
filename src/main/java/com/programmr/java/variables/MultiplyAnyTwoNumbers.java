@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class MultiplyAnyTwoNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int product = 0;
+        int product;
         System.out.println("Enter the 1st number:");
         int num1 = scanner.nextInt();
         System.out.println("Enter the 2nd number:");

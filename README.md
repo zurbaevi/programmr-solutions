@@ -1,8 +1,10 @@
 ____
+
 # Практикум на programmr
 Programmr управляет интерактивной онлайн-лабораторией, где студенты могут изучать и практиковать программирование и кодирование. Он позволяет пользователям кодировать, компилировать и запускать веб-приложения, мобильные приложения, приложения баз данных и мультимедиа, а также программы командной строки в браузере.
 
 ___
+
 # JAVA
 | Subdomain | Challenge | Solution |
 | --- | --- | --- |
@@ -116,4 +118,5 @@ ___
 | Collections |[Find length of the longest String in ArrayList](http://www.programmr.com/find-length-longest-string-arraylist) | [FindLengthOfTheLongestStringInArrayList.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/collections/FindLengthOfTheLongestStringInArrayList.java) |
 | Collections |[Getting the Largest Value in an ArrayList](http://www.programmr.com/getting-largest-value-arraylist) | [GettingTheLargestValueInAnArrayList.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/collections/GettingTheLargestValueInAnArrayList.java) |
 | Collections |[Locating the Largest Value in an ArrayList](http://www.programmr.com/locating-largest-value-arraylist) | [LocatingTheLargestValueInAnArrayList.java](https://github.com/zurbaevi/programmr-solutions/blob/main/src/main/java/com/programmr/java/collections/LocatingTheLargestValueInAnArrayList.java) |
+
 ____
